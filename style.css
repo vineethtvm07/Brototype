@@ -300,20 +300,17 @@ img {
      width: 120px;
      height: 55px;
  }
-form .form-img img {
-    height: 400px;
-}
 
  form .form-control {
      border-radius: 0;
  }
 
-#contacts .form-control:focus {
+#contact .form-control:focus {
      box-shadow: none;
      border-color:rgb(7, 85, 97) ;
  }
 
-#contacts .vr-img img {
+#contact .vr-img img {
     height: 280px;
 }
 
