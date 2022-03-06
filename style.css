@@ -285,13 +285,13 @@ img {
     transform: scale(1.3);
  }
 
+  .review {
+   padding-bottom: 25px;
+}   
+
  .review .stars {
      color:gold;
  }
-
-.review {
-    padding-bottom:25px;
-}   
         
 
  .review p {
