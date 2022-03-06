@@ -289,6 +289,11 @@ img {
      color:gold;
  }
 
+.review {
+    padding-bottom:25px;
+}   
+        
+
  .review p {
      max-width:720px;
      margin: 24px auto;
